@@ -41,7 +41,9 @@ Copy code
 
 ## 📸 Preview
 
-![Portfolio Screenshot](images/port.jpg)
+<p align="center">
+  <img src="images/port.jpg" alt="Portfolio Screenshot" width="400">
+</p>
 
 You can view the live version of my portfolio here:  
 👉 [**Live Portfolio**](https://vb832.github.io/portfolio/) <!-- Replace with your GitHub Pages link -->
